@@ -1,5 +1,3 @@
-# SF-project
-
 ## Introduction 
 automated plant watering system using arduino
 
